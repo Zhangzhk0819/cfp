@@ -6,8 +6,8 @@ domain: "zhangzhk.com"
 baseurl: ""
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: Zhangzhk0819
+github_repo: cfp
 
 markdown: kramdown
 ga_id:
