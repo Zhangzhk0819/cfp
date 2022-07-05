@@ -1,4 +1,8 @@
 ---
+
+- name: Information Security
+  sub: SEC
+  color: "0aff99"
 - name: Machine Learning
   sub: ML
   color: "#ffd300"

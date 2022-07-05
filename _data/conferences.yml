@@ -4,12 +4,25 @@
   year: 2021
   id: ccs21a
   link: https://www.sigsac.org/ccs/CCS2021/
-  deadline: "2021-01-20 23:59:00"
+  deadline: "2021-01-20 23:59:59"
   timezone: UTC-12
   place: Virtual Conference
   date: 2021-11-15 -> 2021-11-19
   start: 2021-11-15
   end: 2021-11-19
+  hindex: 0
+  sub: SEC
+
+- title: IEEE S&P
+  year: 2023
+  id: sp23b
+  link: https://www.ieee-security.org/TC/SP2023/cfpapers.html
+  deadline: "2022-08-19 23:59:59"
+  timezone: UTC-12
+  place: San Francisco
+  date: 2023-05-22 -> 2023-05-26
+  start: 2023-05-22
+  end: 2023-05-26
   hindex: 0
   sub: SEC
 

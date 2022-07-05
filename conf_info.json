@@ -4,10 +4,23 @@
             "round": "First Round",
             "id": "ccs21a",
             "link": "https://www.sigsac.org/ccs/CCS2021/",
-            "deadline": "2021-01-20 23:59:00",
+            "deadline": "2021-01-20 23:59:59",
             "timezone": "UTC-12",
             "place": "Virtual Conference",
             "date": "2021-11-15 -> 2021-11-19"
+        },
+        "sub": "SEC",
+        "hindex": 0
+    },
+    "IEEE S&P": {
+        "2023b": {
+            "round": "Second Round",
+            "id": "sp23b",
+            "link": "https://www.ieee-security.org/TC/SP2023/cfpapers.html",
+            "deadline": "2022-08-19 23:59:59",
+            "timezone": "UTC-12",
+            "place": "San Francisco",
+            "date": "2023-05-22 -> 2023-05-26"
         },
         "sub": "SEC",
         "hindex": 0
