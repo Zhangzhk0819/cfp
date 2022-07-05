@@ -1,5 +1,23 @@
 {
     "ACM CCS": {
+        "2022b": {
+            "round": "Second Round",
+            "id": "ccs22b",
+            "link": "https://www.sigsac.org/ccs/CCS2022/",
+            "deadline": "2021-05-02 23:59:59",
+            "timezone": "UTC-12",
+            "place": "Los Angeles, U.S.A.",
+            "date": "2022-11-07 -> 2021-11-11"
+        },
+        "2022a": {
+            "round": "First Round",
+            "id": "ccs22b",
+            "link": "https://www.sigsac.org/ccs/CCS2022/",
+            "deadline": "2021-01-14 23:59:59",
+            "timezone": "UTC-12",
+            "place": "Los Angeles, U.S.A.",
+            "date": "2022-11-07 -> 2021-11-11"
+        },
         "2021a": {
             "round": "First Round",
             "id": "ccs21a",
@@ -13,6 +31,15 @@
         "hindex": 0
     },
     "IEEE S&P": {
+        "2023c": {
+            "round": "Third Round",
+            "id": "sp23c",
+            "link": "https://www.ieee-security.org/TC/SP2023/cfpapers.html",
+            "deadline": "2022-12-02 23:59:59",
+            "timezone": "UTC-12",
+            "place": "San Francisco",
+            "date": "2023-05-22 -> 2023-05-26"
+        },
         "2023b": {
             "round": "Second Round",
             "id": "sp23b",
@@ -21,6 +48,68 @@
             "timezone": "UTC-12",
             "place": "San Francisco",
             "date": "2023-05-22 -> 2023-05-26"
+        },
+        "2023a": {
+            "round": "First Round",
+            "id": "sp23a",
+            "link": "https://www.ieee-security.org/TC/SP2023/cfpapers.html",
+            "deadline": "2022-04-01 23:59:59",
+            "timezone": "UTC-12",
+            "place": "San Francisco",
+            "date": "2023-05-22 -> 2023-05-26"
+        },
+        "sub": "SEC",
+        "hindex": 0
+    },
+    "USENIX Security": {
+        "2023c": {
+            "round": "Third Round",
+            "id": "security23c",
+            "link": "https://www.usenix.org/conference/usenixsecurity23",
+            "deadline": "2023-02-07 23:59:59",
+            "timezone": "AoE",
+            "place": "Anaheim",
+            "date": "2023-08-09 -> 2023-08-11"
+        },
+        "2023b": {
+            "round": "Second Round",
+            "id": "security23b",
+            "link": "https://www.usenix.org/conference/usenixsecurity23",
+            "deadline": "2022-10-11 23:59:59",
+            "timezone": "AoE",
+            "place": "Anaheim",
+            "date": "2023-08-09 -> 2023-08-11"
+        },
+        "2023a": {
+            "round": "First Round",
+            "id": "security23a",
+            "link": "https://www.usenix.org/conference/usenixsecurity23",
+            "deadline": "2022-06-07 23:59:59",
+            "timezone": "AoE",
+            "place": "Anaheim",
+            "date": "2023-08-09 -> 2023-08-11"
+        },
+        "sub": "SEC",
+        "hindex": 0
+    },
+    "NDSS": {
+        "2023b": {
+            "round": "Second Round",
+            "id": "ndss23b",
+            "link": "https://www.ndss-symposium.org/ndss2023-call-for-papers/",
+            "deadline": "2022-07-29 23:59:59",
+            "timezone": "UTC-12",
+            "place": "TBD",
+            "date": "2023-04-22 -> 2023-04-26"
+        },
+        "2023a": {
+            "round": "First Round",
+            "id": "ndss23a",
+            "link": "https://www.ndss-symposium.org/ndss2023-call-for-papers/",
+            "deadline": "2022-05-13 23:59:59",
+            "timezone": "UTC-12",
+            "place": "TBD",
+            "date": "2023-04-22 -> 2023-04-26"
         },
         "sub": "SEC",
         "hindex": 0
