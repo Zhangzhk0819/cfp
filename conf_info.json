@@ -113,5 +113,93 @@
         },
         "sub": "SEC",
         "hindex": 0
+    },
+    "SIGMOD ": {
+        "2023c": {
+            "round": "Third Round",
+            "id": "sigmod23c",
+            "link": "http://2023.sigmod.org/calls_papers_sigmod_research.shtml",
+            "deadline": "2022-04-15 23:59:59",
+            "timezone": "PST",
+            "place": "Seatle, WA, USA",
+            "date": "2023-06-18 -> 2023-06-23"
+        },
+        "2023b": {
+            "round": "Second Round",
+            "id": "sigmod23b",
+            "link": "http://2023.sigmod.org/calls_papers_sigmod_research.shtml",
+            "deadline": "2022-07-15 23:59:59",
+            "timezone": "PT",
+            "place": "Seatle, WA, USA",
+            "date": "2023-06-18 -> 2023-06-23"
+        },
+        "2023a": {
+            "round": "First Round",
+            "id": "sigmod23a",
+            "link": "http://2023.sigmod.org/calls_papers_sigmod_research.shtml",
+            "deadline": "2022-10-15 23:59:59",
+            "timezone": "PT",
+            "place": "Seatle, WA, USA",
+            "date": "2023-06-18 -> 2023-06-23"
+        },
+        "sub": "DB",
+        "hindex": 0
+    },
+    "VLDB ": {
+        "2023": {
+            "round": "First Round",
+            "id": "VLDB",
+            "link": "http://vldb.org/pvldb/vol16-submission/",
+            "deadline": "2022-08-01 17:00:00",
+            "timezone": "PST",
+            "place": "Vancouver, Canada",
+            "date": "2023-08-28 -> 2023-09-01"
+        },
+        "sub": "DB",
+        "hindex": 0
+    },
+    "ICDE ": {
+        "2023c": {
+            "round": "Third Round",
+            "id": "icde23a",
+            "link": "https://icde2023.ics.uci.edu/research-papers-track/",
+            "deadline": "2022-10-08 23:59:59",
+            "timezone": "PST",
+            "place": "Anaheim, California, USA",
+            "date": "2023-04-03 -> 2023-04-07"
+        },
+        "2023b": {
+            "round": "Second Round",
+            "id": "icde23b",
+            "link": "https://icde2023.ics.uci.edu/research-papers-track/",
+            "deadline": "2022-07-08 23:59:59",
+            "timezone": "PST",
+            "place": "Anaheim, California, USA",
+            "date": "2023-04-03 -> 2023-04-07"
+        },
+        "2023a": {
+            "round": "First Round",
+            "id": "icde23a",
+            "link": "https://icde2023.ics.uci.edu/research-papers-track/",
+            "deadline": "2022-04-25 23:59:59",
+            "timezone": "PST",
+            "place": "Anaheim, California, USA",
+            "date": "2023-04-03 -> 2023-04-07"
+        },
+        "sub": "DB",
+        "hindex": 0
+    },
+    "KDD ": {
+        "2022": {
+            "round": "First Round",
+            "id": "kdd22a",
+            "link": "http://vldb.org/pvldb/vol16-submission/",
+            "deadline": "2022-02-10 17:00:00",
+            "timezone": "UTC-12",
+            "place": "Washington DC Convention Center",
+            "date": "2022-08-14 -> 2022-08-18"
+        },
+        "sub": "DB",
+        "hindex": 0
     }
 }
