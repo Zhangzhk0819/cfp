@@ -340,7 +340,7 @@
 
 - title: VLDB
   year: 2025
-  id: VLDB
+  id: VLDB25a
   link: https://vldb.org/2025/?important-dates
   deadline: "2025-03-01 17:00:00"
   timezone: UTC-12
@@ -353,7 +353,7 @@
 
 - title: VLDB
   year: 2023
-  id: VLDB
+  id: VLDB23a
   link: http://vldb.org/pvldb/vol16-submission/
   deadline: "2022-08-01 17:00:00"
   timezone: UTC-12
@@ -485,7 +485,7 @@
   year: 2025
   id: nips25a
   link: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282
-  deadline: " "
+  deadline: "TBD"
   timezone: UTC-12
   place: San Diego
   date: 2025-12-09 -> 2025-12-15
