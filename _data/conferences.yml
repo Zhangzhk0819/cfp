@@ -481,19 +481,6 @@
   hindex: 0
   sub: ML
 
-- title: Neurips
-  year: 2025
-  id: nips25a
-  link: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282
-  deadline: "TBD"
-  timezone: UTC-12
-  place: San Diego
-  date: 2025-12-09 -> 2025-12-15
-  start: 2025-12-09
-  end: 2025-12-15
-  hindex: 0
-  sub: ML
-
 - title: ICML
   year: 2025
   id: icml25a
