@@ -40,6 +40,19 @@
   sub: SEC
 
 - title: IEEE S&P
+  year: 2025
+  id: sp25b
+  link: https://sp2025.ieee-security.org/cfpapers.html
+  deadline: "2024-11-14 23:59:59"
+  timezone: UTC-12
+  place: San Francisco
+  date: 2025-05-12 -> 2025-05-15
+  start: 2025-05-12
+  end: 2025-05-15
+  hindex: 0
+  sub: SEC
+
+- title: IEEE S&P
   year: 2023
   id: sp23c
   link: https://www.ieee-security.org/TC/SP2023/cfpapers.html
