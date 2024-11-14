@@ -31,6 +31,15 @@
         "hindex": 0
     },
     "IEEE S&P": {
+        "2025b": {
+            "round": "Second Round",
+            "id": "sp25b",
+            "link": "https://sp2025.ieee-security.org/cfpapers.html",
+            "deadline": "2024-11-14 23:59:59",
+            "timezone": "UTC-12",
+            "place": "San Francisco",
+            "date": "2025-05-12 -> 2025-05-15"
+        },
         "2023c": {
             "round": "Third Round",
             "id": "sp23c",
