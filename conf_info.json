@@ -368,19 +368,6 @@
         "sub": "ML",
         "hindex": 0
     },
-    "Neurips": {
-        "2025a": {
-            "round": "First Round",
-            "id": "nips25a",
-            "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282",
-            "deadline": "TBD",
-            "timezone": "UTC-12",
-            "place": "San Diego",
-            "date": "2025-12-09 -> 2025-12-15"
-        },
-        "sub": "ML",
-        "hindex": 0
-    },
     "ICML": {
         "2025a": {
             "round": "First Round",
