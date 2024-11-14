@@ -1,6 +1,32 @@
 ---
 
 - title: ACM CCS
+  year: 2025
+  id: ccs25b
+  link: https://www.sigsac.org/ccs/CCS2025/call-for-papers/
+  deadline: "2025-04-14 23:59:59"
+  timezone: UTC-12
+  place: Taipei, Taiwan
+  date: 2025-10-13 -> 2025-10-17
+  start: 2025-10-13
+  end: 2025-10-17
+  hindex: 0
+  sub: SEC
+
+- title: ACM CCS
+  year: 2025
+  id: ccs25a
+  link: https://www.sigsac.org/ccs/CCS2025/call-for-papers/
+  deadline: "2025-01-09 23:59:59"
+  timezone: UTC-12
+  place: Taipei, Taiwan
+  date: 2025-10-13 -> 2025-10-17
+  start: 2025-10-13
+  end: 2025-10-17
+  hindex: 0
+  sub: SEC
+
+- title: ACM CCS
   year: 2022
   id: ccs22b
   link: https://www.sigsac.org/ccs/CCS2022/
@@ -53,6 +79,19 @@
   sub: SEC
 
 - title: IEEE S&P
+  year: 2025
+  id: sp25a
+  link: https://sp2025.ieee-security.org/cfpapers.html
+  deadline: "2024-06-06 23:59:59"
+  timezone: UTC-12
+  place: San Francisco
+  date: 2025-05-12 -> 2025-05-15
+  start: 2025-05-12
+  end: 2025-05-15
+  hindex: 0
+  sub: SEC
+
+- title: IEEE S&P
   year: 2023
   id: sp23c
   link: https://www.ieee-security.org/TC/SP2023/cfpapers.html
@@ -88,6 +127,32 @@
   date: 2023-05-22 -> 2023-05-26
   start: 2023-05-22
   end: 2023-05-26
+  hindex: 0
+  sub: SEC
+
+- title: USENIX Security
+  year: 2025
+  id: sec25b
+  link: https://www.usenix.org/conference/usenixsecurity25
+  deadline: "2025-01-22 23:59:59"
+  timezone: UTC-12
+  place: Seattle, WA, USA
+  date: 2025-08-13 -> 2025-08-15
+  start: 2025-08-13
+  end: 2025-08-15
+  hindex: 0
+  sub: SEC
+
+- title: USENIX Security
+  year: 2025
+  id: sec25a
+  link: https://www.usenix.org/conference/usenixsecurity25
+  deadline: "2024-09-04 23:59:59"
+  timezone: UTC-12
+  place: Seattle, WA, USA
+  date: 2025-08-13 -> 2025-08-15
+  start: 2025-08-13
+  end: 2025-08-15
   hindex: 0
   sub: SEC
 
@@ -131,6 +196,32 @@
   sub: SEC
 
 - title: NDSS
+  year: 2025
+  id: ndss25b
+  link: https://www.ndss-symposium.org/ndss2025/submissions/call-for-papers/
+  deadline: "2024-07-10 23:59:59"
+  timezone: UTC-12
+  place: San Diego, California
+  date: 2025-02-24 -> 2025-02-28
+  start: 2025-02-24
+  end: 2025-02-28
+  hindex: 0
+  sub: SEC
+
+- title: NDSS
+  year: 2025
+  id: ndss25a
+  link: https://www.ndss-symposium.org/ndss2025/submissions/call-for-papers/
+  deadline: "2024-04-17 23:59:59"
+  timezone: UTC-12
+  place: San Diego, California
+  date: 2025-02-24 -> 2025-02-28
+  start: 2025-02-24
+  end: 2025-02-28
+  hindex: 0
+  sub: SEC
+
+- title: NDSS
   year: 2023
   id: ndss23b
   link: https://www.ndss-symposium.org/ndss2023-call-for-papers/
@@ -156,7 +247,59 @@
   hindex: 0
   sub: SEC
 
-- title: SIGMOD 
+- title: SIGMOD
+  year: 2026
+  id: sigmod26d
+  link: https://2026.sigmod.org/calls_papers_important_dates.shtml
+  deadline: "2025-10-10 23:59:59"
+  timezone: UTC-12
+  place: Bengaluru India
+  date: 2026-05-31 -> 2026-06-05
+  start: 2026-05-31
+  end: 2026-06-05
+  hindex: 0
+  sub: DB
+
+- title: SIGMOD
+  year: 2026
+  id: sigmod26c
+  link: https://2026.sigmod.org/calls_papers_important_dates.shtml
+  deadline: "2025-07-10 23:59:59"
+  timezone: UTC-12
+  place: Bengaluru India
+  date: 2026-05-31 -> 2026-06-05
+  start: 2026-05-31
+  end: 2026-06-05
+  hindex: 0
+  sub: DB
+
+- title: SIGMOD
+  year: 2026
+  id: sigmod26b
+  link: https://2026.sigmod.org/calls_papers_important_dates.shtml
+  deadline: "2025-4-10 23:59:59"
+  timezone: UTC-12
+  place: Bengaluru India
+  date: 2026-05-31 -> 2026-06-05
+  start: 2026-05-31
+  end: 2026-06-05
+  hindex: 0
+  sub: DB
+
+- title: SIGMOD
+  year: 2026
+  id: sigmod26a
+  link: https://2026.sigmod.org/calls_papers_important_dates.shtml
+  deadline: "2025-1-10 23:59:59"
+  timezone: UTC-12
+  place: Bengaluru India
+  date: 2026-05-31 -> 2026-06-05
+  start: 2026-05-31
+  end: 2026-06-05
+  hindex: 0
+  sub: DB
+
+- title: SIGMOD
   year: 2023
   id: sigmod23c
   link: http://2023.sigmod.org/calls_papers_sigmod_research.shtml
@@ -169,7 +312,7 @@
   hindex: 0
   sub: DB
 
-- title: SIGMOD 
+- title: SIGMOD
   year: 2023
   id: sigmod23b
   link: http://2023.sigmod.org/calls_papers_sigmod_research.shtml
@@ -182,7 +325,7 @@
   hindex: 0
   sub: DB
 
-- title: SIGMOD 
+- title: SIGMOD
   year: 2023
   id: sigmod23a
   link: http://2023.sigmod.org/calls_papers_sigmod_research.shtml
@@ -195,8 +338,21 @@
   hindex: 0
   sub: DB
 
-- title: VLDB 
-  year: 202
+- title: VLDB
+  year: 2025
+  id: VLDB
+  link: https://vldb.org/2025/?important-dates
+  deadline: "2025-03-01 17:00:00"
+  timezone: UTC-12
+  place: London, United Kingdom
+  date: 2025-09-01 -> 2025-09-05
+  start: 2025-09-01
+  end: 2025-09-05
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2023
   id: VLDB
   link: http://vldb.org/pvldb/vol16-submission/
   deadline: "2022-08-01 17:00:00"
@@ -208,7 +364,33 @@
   hindex: 0
   sub: DB
 
-- title: ICDE 
+- title: ICDE
+  year: 2025
+  id: icde25b
+  link: https://ieee-icde.org/2025/cfp/
+  deadline: "2024-11-25 23:59:59"
+  timezone: UTC-12
+  place: Hong Kong
+  date: 2025-05-19 -> 2025-05-23
+  start: 2025-05-19
+  end: 2025-05-23
+  hindex: 0
+  sub: DB
+
+- title: ICDE
+  year: 2025
+  id: icde25a
+  link: https://ieee-icde.org/2025/cfp/
+  deadline: "2024-08-02 23:59:59"
+  timezone: UTC-12
+  place: Hong Kong
+  date: 2025-05-19 -> 2025-05-23
+  start: 2025-05-19
+  end: 2025-05-23
+  hindex: 0
+  sub: DB
+
+- title: ICDE
   year: 2023
   id: icde23c
   link: https://icde2023.ics.uci.edu/research-papers-track/
@@ -221,7 +403,7 @@
   hindex: 0
   sub: DB
 
-- title: ICDE 
+- title: ICDE
   year: 2023
   id: icde23b
   link: https://icde2023.ics.uci.edu/research-papers-track/
@@ -234,7 +416,7 @@
   hindex: 0
   sub: DB
 
-- title: ICDE 
+- title: ICDE
   year: 2023
   id: icde23a
   link: https://icde2023.ics.uci.edu/research-papers-track/
@@ -247,8 +429,34 @@
   hindex: 0
   sub: DB
 
-- title: KDD 
-  year: 202
+- title: KDD
+  year: 2025
+  id: kdd25b
+  link: https://kdd2025.kdd.org/research-track-call-for-papers/
+  deadline: "2025-02-01 23:59:59"
+  timezone: UTC-12
+  place: Toronto, Canada
+  date: 2025-08-03 -> 2025-08-07
+  start: 2025-08-03
+  end: 2025-08-07
+  hindex: 0
+  sub: DB
+
+- title: KDD
+  year: 2025
+  id: kdd25a
+  link: https://kdd2025.kdd.org/research-track-call-for-papers/
+  deadline: "2024-08-01 23:59:59"
+  timezone: UTC-12
+  place: Toronto, Canada
+  date: 2025-08-03 -> 2025-08-07
+  start: 2025-08-03
+  end: 2025-08-07
+  hindex: 0
+  sub: DB
+
+- title: KDD
+  year: 2022
   id: kdd22a
   link: http://vldb.org/pvldb/vol16-submission/
   deadline: "2022-02-10 17:00:00"
@@ -259,4 +467,43 @@
   end: 2022-08-18
   hindex: 0
   sub: DB
+
+- title: ICLR
+  year: 2026
+  id: iclr26a
+  link: https://waset.org/learning-representations-conference-in-february-2026-in-lisbon
+  deadline: "2025-02-13 23:59:59"
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: 2026-02-08 -> 2026-02-09
+  start: 2026-02-08
+  end: 2026-02-09
+  hindex: 0
+  sub: ML
+
+- title: Neurips
+  year: 2025
+  id: nips25a
+  link: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282
+  deadline: " "
+  timezone: UTC-12
+  place: San Diego
+  date: 2025-12-09 -> 2025-12-15
+  start: 2025-12-09
+  end: 2025-12-15
+  hindex: 0
+  sub: ML
+
+- title: ICML
+  year: 2025
+  id: icml25a
+  link: https://icml.cc/Conferences/2025/Dates
+  deadline: "2025-01-23 23:59:59"
+  timezone: UTC-12
+  place: Vancouver, Canada
+  date: 2025-07-13 -> 2025-07-19
+  start: 2025-07-13
+  end: 2025-07-19
+  hindex: 0
+  sub: ML
 
