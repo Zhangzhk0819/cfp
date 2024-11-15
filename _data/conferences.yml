@@ -339,8 +339,8 @@
   sub: DB
 
 - title: VLDB
-  year: 2025a
-  id: VLDB25_4
+  year: 2025
+  id: VLDB25d
   link: https://vldb.org/2025/?important-dates
   deadline: "2025-03-01 17:00:00"
   timezone: UTC-12
@@ -352,8 +352,8 @@
   sub: DB
 
 - title: VLDB
-  year: 2025a
-  id: VLDB25_3
+  year: 2025
+  id: VLDB25c
   link: https://vldb.org/2025/?important-dates
   deadline: "2025-02-01 17:00:00"
   timezone: UTC-12
@@ -365,8 +365,8 @@
   sub: DB
 
 - title: VLDB
-  year: 2025a
-  id: VLDB25_2
+  year: 2025
+  id: VLDB25b
   link: https://vldb.org/2025/?important-dates
   deadline: "2025-01-01 17:00:00"
   timezone: UTC-12
@@ -378,8 +378,8 @@
   sub: DB
 
 - title: VLDB
-  year: 2025a
-  id: VLDB25_1
+  year: 2025
+  id: VLDB25a
   link: https://vldb.org/2025/?important-dates
   deadline: "2024-12-01 17:00:00"
   timezone: UTC-12
