@@ -254,36 +254,36 @@
         "hindex": 0
     },
     "VLDB": {
-        "2025a4": {
-            "round": "Round4",
-            "id": "VLDB25_4",
+        "2025d": {
+            "round": "Fourth Round",
+            "id": "VLDB25d",
             "link": "https://vldb.org/2025/?important-dates",
             "deadline": "2025-03-01 17:00:00",
             "timezone": "UTC-12",
             "place": "London, United Kingdom",
             "date": "2025-09-01 -> 2025-09-05"
         },
-        "2025a3": {
-            "round": "Round3",
-            "id": "VLDB25_3",
+        "2025c": {
+            "round": "Third Round",
+            "id": "VLDB25c",
             "link": "https://vldb.org/2025/?important-dates",
             "deadline": "2025-02-01 17:00:00",
             "timezone": "UTC-12",
             "place": "London, United Kingdom",
             "date": "2025-09-01 -> 2025-09-05"
         },
-        "2025a2": {
-            "round": "Round2",
-            "id": "VLDB25_2",
+        "2025b": {
+            "round": "Second Round",
+            "id": "VLDB25b",
             "link": "https://vldb.org/2025/?important-dates",
             "deadline": "2025-01-01 17:00:00",
             "timezone": "UTC-12",
             "place": "London, United Kingdom",
             "date": "2025-09-01 -> 2025-09-05"
         },
-        "2025a1": {
-            "round": "Round1",
-            "id": "VLDB25_1",
+        "2025a": {
+            "round": "First Round",
+            "id": "VLDB25a",
             "link": "https://vldb.org/2025/?important-dates",
             "deadline": "2024-12-01 17:00:00",
             "timezone": "UTC-12",
