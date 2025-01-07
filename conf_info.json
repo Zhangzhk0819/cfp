@@ -209,7 +209,7 @@
             "round": "Second Round",
             "id": "sigmod26b",
             "link": "https://2026.sigmod.org/calls_papers_important_dates.shtml",
-            "deadline": "2025-4-17 23:59:59",
+            "deadline": "2025-04-17 23:59:59",
             "timezone": "UTC-12",
             "place": "Bengaluru India",
             "date": "2026-05-31 -> 2026-06-05"
@@ -218,7 +218,7 @@
             "round": "First Round",
             "id": "sigmod26a",
             "link": "https://2026.sigmod.org/calls_papers_important_dates.shtml",
-            "deadline": "2025-1-17 23:59:59",
+            "deadline": "2025-01-17 23:59:59",
             "timezone": "UTC-12",
             "place": "Bengaluru India",
             "date": "2026-05-31 -> 2026-06-05"
