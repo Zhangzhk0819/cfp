@@ -66,6 +66,32 @@
   sub: SEC
 
 - title: IEEE S&P
+  year: 2026
+  id: sp26b
+  link: https://www.ieee-security.org/TC/SP2026/cfpapers.html
+  deadline: "2025-11-13 23:59:59"
+  timezone: UTC-12
+  place: San Francisco
+  date: 2025-05-18 -> 2025-05-21
+  start: 2025-05-18
+  end: 2025-05-21
+  hindex: 0
+  sub: SEC
+
+- title: IEEE S&P
+  year: 2026
+  id: sp26a
+  link: https://www.ieee-security.org/TC/SP2026/cfpapers.html
+  deadline: "2025-06-05 23:59:59"
+  timezone: UTC-12
+  place: San Francisco
+  date: 2025-05-18 -> 2025-05-21
+  start: 2025-05-18
+  end: 2025-05-21
+  hindex: 0
+  sub: SEC
+
+- title: IEEE S&P
   year: 2025
   id: sp25b
   link: https://sp2025.ieee-security.org/cfpapers.html
@@ -508,15 +534,15 @@
   sub: DB
 
 - title: ICLR
-  year: 2026
-  id: iclr26a
-  link: https://waset.org/learning-representations-conference-in-february-2026-in-lisbon
-  deadline: "2025-02-13 23:59:59"
+  year: 2025
+  id: iclr25a
+  link: https://iclr.cc/Conferences/2025/Dates
+  deadline: "2024-10-01 23:59:59"
   timezone: UTC-12
-  place: Lisbon, Portugal
-  date: 2026-02-08 -> 2026-02-09
-  start: 2026-02-08
-  end: 2026-02-09
+  place: Singapore
+  date: 2025-04-24 -> 2025-04-28
+  start: 2025-04-24
+  end: 2025-04-28
   hindex: 0
   sub: ML
 
