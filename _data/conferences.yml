@@ -365,6 +365,162 @@
   sub: DB
 
 - title: VLDB
+  year: 2026
+  id: VLDB26l
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2026-03-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26k
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2026-02-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26j
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2026-01-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26i
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-12-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26h
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-11-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26g
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-10-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26f
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-09-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26e
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-08-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26d
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-07-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26c
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-06-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26b
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-05-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
+  year: 2026
+  id: VLDB26a
+  link: https://vldb.org/2026/important-dates.html
+  deadline: "2025-04-01 17:00:00"
+  timezone: UTC-7
+  place: Boston, MA, USA
+  date: 2026-08-31 -> 2026-09-04
+  start: 2026-08-31
+  end: 2026-09-04
+  hindex: 0
+  sub: DB
+
+- title: VLDB
   year: 2025
   id: VLDB25d
   link: https://vldb.org/2025/?important-dates
@@ -556,6 +712,19 @@
   date: 2025-07-13 -> 2025-07-19
   start: 2025-07-13
   end: 2025-07-19
+  hindex: 0
+  sub: ML
+
+- title: NIPS
+  year: 2025
+  id: nips25a
+  link: https://neurips.cc/Conferences/2025/Dates
+  deadline: "2025-05-15 23:59:59"
+  timezone: UTC-12
+  place: San Diego
+  date: 2025-12-02 -> 2025-12-07
+  start: 2025-12-02
+  end: 2025-12-07
   hindex: 0
   sub: ML
 
