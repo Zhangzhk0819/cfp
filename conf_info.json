@@ -534,10 +534,10 @@
         "sub": "ML",
         "hindex": 0
     },
-    "NIPS": {
+    "NeurIPS": {
         "2025a": {
             "round": "First Round",
-            "id": "nips25a",
+            "id": "NeurIPS25a",
             "link": "https://neurips.cc/Conferences/2025/Dates",
             "deadline": "2025-05-15 23:59:59",
             "timezone": "UTC-12",
