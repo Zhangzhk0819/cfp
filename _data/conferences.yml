@@ -222,6 +222,32 @@
   sub: SEC
 
 - title: NDSS
+  year: 2026
+  id: ndss26b
+  link: https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
+  deadline: "2025-08-06 23:59:59"
+  timezone: UTC-12
+  place: San Diego, California
+  date: 2026-02-23 -> 2026-02-27
+  start: 2026-02-23
+  end: 2026-02-27
+  hindex: 0
+  sub: SEC
+
+- title: NDSS
+  year: 2026
+  id: ndss26a
+  link: https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
+  deadline: "2025-04-23 23:59:59"
+  timezone: UTC-12
+  place: San Diego, California
+  date: 2026-02-23 -> 2026-02-27
+  start: 2026-02-23
+  end: 2026-02-27
+  hindex: 0
+  sub: SEC
+
+- title: NDSS
   year: 2025
   id: ndss25b
   link: https://www.ndss-symposium.org/ndss2025/submissions/call-for-papers/
