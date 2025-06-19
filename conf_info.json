@@ -123,16 +123,16 @@
             "deadline": "2026-02-05 23:59:59",
             "timezone": "UTC-12",
             "place": "Baltimore, MD, USA",
-            "date": "2026-08-12 -> 2025-08-14"
+            "date": "2026-08-12 -> 2026-08-14"
         },
         "2026a": {
             "round": "First Round",
             "id": "sec26a",
             "link": "https://www.usenix.org/conference/usenixsecurity26",
-            "deadline": "2026-08-26 23:59:59",
+            "deadline": "2025-08-26 23:59:59",
             "timezone": "UTC-12",
             "place": "Baltimore, MD, USA",
-            "date": "2026-08-12 -> 2025-08-14"
+            "date": "2026-08-12 -> 2026-08-14"
         },
         "2025b": {
             "round": "Second Round",
