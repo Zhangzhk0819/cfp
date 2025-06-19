@@ -157,6 +157,32 @@
   sub: SEC
 
 - title: USENIX Security
+  year: 2026
+  id: sec26b
+  link: https://www.usenix.org/conference/usenixsecurity26
+  deadline: "2026-02-05 23:59:59"
+  timezone: UTC-12
+  place: Baltimore, MD, USA
+  date: 2026-08-12 -> 2025-08-14
+  start: 2026-08-12
+  end: 2025-08-14
+  hindex: 0
+  sub: SEC
+
+- title: USENIX Security
+  year: 2026
+  id: sec26a
+  link: https://www.usenix.org/conference/usenixsecurity26
+  deadline: "2026-08-26 23:59:59"
+  timezone: UTC-12
+  place: Baltimore, MD, USA
+  date: 2026-08-12 -> 2025-08-14
+  start: 2026-08-12
+  end: 2025-08-14
+  hindex: 0
+  sub: SEC
+
+- title: USENIX Security
   year: 2025
   id: sec25b
   link: https://www.usenix.org/conference/usenixsecurity25
@@ -608,6 +634,32 @@
   date: 2023-08-28 -> 2023-09-01
   start: 2023-08-28
   end: 2023-09-01
+  hindex: 0
+  sub: DB
+
+- title: ICDE
+  year: 2026
+  id: icde26b
+  link: https://icde2026.github.io/
+  deadline: "2025-10-27 17:00:00"
+  timezone: UTC-7
+  place: Montréal, Canada
+  date: 2026-05-04 -> 2026-05-08
+  start: 2026-05-04
+  end: 2026-05-08
+  hindex: 0
+  sub: DB
+
+- title: ICDE
+  year: 2026
+  id: icde26a
+  link: https://icde2026.github.io/
+  deadline: "2025-06-18 17:00:00"
+  timezone: UTC-7
+  place: Montréal, Canada
+  date: 2026-05-04 -> 2026-05-08
+  start: 2026-05-04
+  end: 2026-05-08
   hindex: 0
   sub: DB
 
