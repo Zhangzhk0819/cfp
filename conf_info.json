@@ -532,6 +532,24 @@
         "hindex": 0
     },
     "KDD": {
+        "2026b": {
+            "round": "Second Round",
+            "id": "kdd26b",
+            "link": "https://kdd2026.kdd.org/applied-data-science-ads-track-call-for-papers/",
+            "deadline": "2026-02-08 23:59:59",
+            "timezone": "UTC-12",
+            "place": "Jeju, Korea",
+            "date": "2026-08-09 -> 2026-08-13"
+        },
+        "2025a": {
+            "round": "First Round",
+            "id": "kdd26a",
+            "link": "https://kdd2026.kdd.org/applied-data-science-ads-track-call-for-papers/",
+            "deadline": "2025-07-31 23:59:59",
+            "timezone": "UTC-12",
+            "place": "Jeju, Korea",
+            "date": "2026-08-09 -> 2026-08-13"
+        },
         "2025b": {
             "round": "Second Round",
             "id": "kdd25b",
@@ -563,6 +581,15 @@
         "hindex": 0
     },
     "ICLR": {
+        "2026a": {
+            "round": "First Round",
+            "id": "iclr26a",
+            "link": "https://iclr.cc/Conferences/2026",
+            "deadline": "2025-09-24 23:59:59",
+            "timezone": "UTC-12",
+            "place": "Brazil",
+            "date": "2026-05-01 -> 2026-05-05"
+        },
         "2025a": {
             "round": "First Round",
             "id": "iclr25a",
