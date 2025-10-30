@@ -729,6 +729,32 @@
   sub: DB
 
 - title: KDD
+  year: 2026
+  id: kdd26b
+  link: https://kdd2026.kdd.org/applied-data-science-ads-track-call-for-papers/
+  deadline: "2026-02-08 23:59:59"
+  timezone: UTC-12
+  place: Jeju, Korea
+  date: 2026-08-09 -> 2026-08-13
+  start: 2026-08-09
+  end: 2026-08-13
+  hindex: 0
+  sub: DB
+
+- title: KDD
+  year: 2026
+  id: kdd26a
+  link: https://kdd2026.kdd.org/applied-data-science-ads-track-call-for-papers/
+  deadline: "2025-07-31 23:59:59"
+  timezone: UTC-12
+  place: Jeju, Korea
+  date: 2026-08-09 -> 2026-08-13
+  start: 2026-08-09
+  end: 2026-08-13
+  hindex: 0
+  sub: DB
+
+- title: KDD
   year: 2025
   id: kdd25b
   link: https://kdd2025.kdd.org/research-track-call-for-papers/
@@ -766,6 +792,19 @@
   end: 2022-08-18
   hindex: 0
   sub: DB
+
+- title: ICLR
+  year: 2026
+  id: iclr26a
+  link: https://iclr.cc/Conferences/2026
+  deadline: "2025-09-24 23:59:59"
+  timezone: UTC-12
+  place: Brazil
+  date: 2026-05-01 -> 2026-05-05
+  start: 2026-05-01
+  end: 2026-05-05
+  hindex: 0
+  sub: ML
 
 - title: ICLR
   year: 2025
