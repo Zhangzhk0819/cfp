@@ -380,6 +380,114 @@
         "hindex": 0
     },
     "VLDB": {
+        "2027l": {
+            "round": "Twelfth Round",
+            "id": "VLDB27l",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-03-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027k": {
+            "round": "Eleventh Round",
+            "id": "VLDB27k",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-02-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027j": {
+            "round": "Tenth Round",
+            "id": "VLDB27j",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2027-01-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027i": {
+            "round": "Ninth Round",
+            "id": "VLDB27i",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-12-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027h": {
+            "round": "Eighth Round",
+            "id": "VLDB27h",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-11-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027g": {
+            "round": "Seventh Round",
+            "id": "VLDB27g",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-10-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027f": {
+            "round": "Sixth Round",
+            "id": "VLDB27f",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-09-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027e": {
+            "round": "Fifth Round",
+            "id": "VLDB27e",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-08-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027d": {
+            "round": "Forth Round",
+            "id": "VLDB27d",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-07-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027c": {
+            "round": "Third Round",
+            "id": "VLDB27c",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-06-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027b": {
+            "round": "Second Round",
+            "id": "VLDB27b",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-05-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
+        "2027a": {
+            "round": "First Round",
+            "id": "VLDB27a",
+            "link": "https://vldb.org/2027/important-dates.html",
+            "deadline": "2026-04-01 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Athens, Greece",
+            "date": "2027-08-23 -> 2027-08-27"
+        },
         "2026l": {
             "round": "twelfth Round",
             "id": "VLDB26l",
@@ -537,6 +645,24 @@
         "hindex": 0
     },
     "ICDE": {
+        "2027b": {
+            "round": "Second Round",
+            "id": "icde27b",
+            "link": "https://icde2027.github.io/",
+            "deadline": "2026-11-11 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Copenhagen, Denmark",
+            "date": "2027-05-17 -> 2027-05-21"
+        },
+        "2027a": {
+            "round": "First Round",
+            "id": "icde27a",
+            "link": "https://icde2027.github.io/",
+            "deadline": "2026-06-11 17:00:00",
+            "timezone": "UTC-7",
+            "place": "Copenhagen, Denmark",
+            "date": "2027-05-17 -> 2027-05-21"
+        },
         "2026b": {
             "round": "Second Round",
             "id": "icde26b",
@@ -697,6 +823,15 @@
         "hindex": 0
     },
     "NeurIPS": {
+        "2026a": {
+            "round": "First Round",
+            "id": "NeurIPS25a",
+            "link": "https://neurips.cc/Conferences/2025/Dates",
+            "deadline": "2026-05-07 11:59:59",
+            "timezone": "UTC-0",
+            "place": "Sydney, Australia",
+            "date": "2026-12-06 -> 2026-12-06"
+        },
         "2025a": {
             "round": "First Round",
             "id": "NeurIPS25a",
