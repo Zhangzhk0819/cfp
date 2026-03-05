@@ -183,6 +183,32 @@
   sub: SEC
 
 - title: USENIX Security
+  year: 2027
+  id: sec27b
+  link: https://www.usenix.org/conference/usenixsecurity27
+  deadline: "2027-01-26 23:59:59"
+  timezone: UTC-12
+  place: Denver, CO, USA
+  date: 2027-08-11 -> 2027-08-13
+  start: 2027-08-11
+  end: 2027-08-13
+  hindex: 0
+  sub: SEC
+
+- title: USENIX Security
+  year: 2027
+  id: sec27a
+  link: https://www.usenix.org/conference/usenixsecurity27
+  deadline: "2026-08-25 23:59:59"
+  timezone: UTC-12
+  place: Denver, CO, USA
+  date: 2027-08-11 -> 2027-08-13
+  start: 2027-08-11
+  end: 2027-08-13
+  hindex: 0
+  sub: SEC
+
+- title: USENIX Security
   year: 2026
   id: sec26b
   link: https://www.usenix.org/conference/usenixsecurity26
