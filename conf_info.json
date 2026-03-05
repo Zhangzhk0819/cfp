@@ -134,6 +134,24 @@
         "hindex": 0
     },
     "USENIX Security": {
+        "2027b": {
+            "round": "Second Round",
+            "id": "sec27b",
+            "link": "https://www.usenix.org/conference/usenixsecurity27",
+            "deadline": "2027-01-26 23:59:59",
+            "timezone": "UTC-12",
+            "place": "Denver, CO, USA",
+            "date": "2027-08-11 -> 2027-08-13"
+        },
+        "2027a": {
+            "round": "First Round",
+            "id": "sec27a",
+            "link": "https://www.usenix.org/conference/usenixsecurity27",
+            "deadline": "2026-08-25 23:59:59",
+            "timezone": "UTC-12",
+            "place": "Denver, CO, USA",
+            "date": "2027-08-11 -> 2027-08-13"
+        },
         "2026b": {
             "round": "Second Round",
             "id": "sec26b",
