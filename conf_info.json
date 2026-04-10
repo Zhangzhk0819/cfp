@@ -219,6 +219,24 @@
         "hindex": 0
     },
     "NDSS": {
+        "2027b": {
+            "round": "Second Round",
+            "id": "ndss27b",
+            "link": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/",
+            "deadline": "2026-08-19 23:59:59",
+            "timezone": "UTC-12",
+            "place": "San Diego, California",
+            "date": "2027-02-23 -> 2027-02-27"
+        },
+        "2027a": {
+            "round": "First Round",
+            "id": "ndss27a",
+            "link": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/",
+            "deadline": "2026-05-06 23:59:59",
+            "timezone": "UTC-12",
+            "place": "San Diego, California",
+            "date": "2027-02-23 -> 2027-02-27"
+        },
         "2026b": {
             "round": "Second Round",
             "id": "ndss26b",
