@@ -92,15 +92,41 @@
   sub: SEC
 
 - title: IEEE S&P
+  year: 2027
+  id: sp27b
+  link: https://www.ieee-security.org/TC/SP2027/cfpapers.html
+  deadline: "2026-11-17 23:59:59"
+  timezone: UTC-12
+  place: San Francisco
+  date: 2027-05-18 -> 2027-05-21
+  start: 2027-05-18
+  end: 2027-05-21
+  hindex: 0
+  sub: SEC
+
+- title: IEEE S&P
+  year: 2027
+  id: sp27a
+  link: https://www.ieee-security.org/TC/SP2027/cfpapers.html
+  deadline: "2026-06-11 23:59:59"
+  timezone: UTC-12
+  place: San Francisco
+  date: 2027-05-18 -> 2027-05-21
+  start: 2027-05-18
+  end: 2027-05-21
+  hindex: 0
+  sub: SEC
+
+- title: IEEE S&P
   year: 2026
   id: sp26b
   link: https://www.ieee-security.org/TC/SP2026/cfpapers.html
   deadline: "2025-11-13 23:59:59"
   timezone: UTC-12
   place: San Francisco
-  date: 2025-05-18 -> 2025-05-21
-  start: 2025-05-18
-  end: 2025-05-21
+  date: 2026-05-18 -> 2026-05-21
+  start: 2026-05-18
+  end: 2026-05-21
   hindex: 0
   sub: SEC
 
@@ -111,9 +137,9 @@
   deadline: "2025-06-05 23:59:59"
   timezone: UTC-12
   place: San Francisco
-  date: 2025-05-18 -> 2025-05-21
-  start: 2025-05-18
-  end: 2025-05-21
+  date: 2026-05-18 -> 2026-05-21
+  start: 2026-05-18
+  end: 2026-05-21
   hindex: 0
   sub: SEC
 
