@@ -67,6 +67,24 @@
         "hindex": 0
     },
     "IEEE S&P": {
+        "2027b": {
+            "round": "Second Round",
+            "id": "sp27b",
+            "link": "https://www.ieee-security.org/TC/SP2027/cfpapers.html",
+            "deadline": "2026-11-17 23:59:59",
+            "timezone": "UTC-12",
+            "place": "San Francisco",
+            "date": "2027-05-18 -> 2027-05-21"
+        },
+        "2027a": {
+            "round": "First Round",
+            "id": "sp27a",
+            "link": "https://www.ieee-security.org/TC/SP2027/cfpapers.html",
+            "deadline": "2026-06-11 23:59:59",
+            "timezone": "UTC-12",
+            "place": "San Francisco",
+            "date": "2027-05-18 -> 2027-05-21"
+        },
         "2026b": {
             "round": "Second Round",
             "id": "sp26b",
@@ -74,7 +92,7 @@
             "deadline": "2025-11-13 23:59:59",
             "timezone": "UTC-12",
             "place": "San Francisco",
-            "date": "2025-05-18 -> 2025-05-21"
+            "date": "2026-05-18 -> 2026-05-21"
         },
         "2026a": {
             "round": "First Round",
@@ -83,7 +101,7 @@
             "deadline": "2025-06-05 23:59:59",
             "timezone": "UTC-12",
             "place": "San Francisco",
-            "date": "2025-05-18 -> 2025-05-21"
+            "date": "2026-05-18 -> 2026-05-21"
         },
         "2025b": {
             "round": "Second Round",
