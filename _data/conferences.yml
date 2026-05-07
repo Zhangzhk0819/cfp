@@ -1185,10 +1185,10 @@
 
 - title: NeurIPS
   year: 2026
-  id: NeurIPS25a
-  link: https://neurips.cc/Conferences/2025/Dates
-  deadline: "2026-05-07 11:59:59"
-  timezone: UTC-0
+  id: NeurIPS26a
+  link: https://neurips.cc/Conferences/2026
+  deadline: "2026-05-06 11:59:59"
+  timezone: UTC-12
   place: Sydney, Australia
   date: 2026-12-06 -> 2026-12-06
   start: 2026-12-06
